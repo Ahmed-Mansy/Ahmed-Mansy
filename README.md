@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Ahmed Mansy, Software Engineer
+A passionate Full-Stack Developer crafting web applications using React.js & Django
 
 
 ## 🌐 Socials:
