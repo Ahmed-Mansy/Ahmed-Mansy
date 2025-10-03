@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate Full-Stack Developer crafting web applications using React.js & Django
+A passionate Full-Stack Developer crafting web applications using Angular & Django
 
 
 ## 🌐 Socials:
